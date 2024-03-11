@@ -1,13 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alexander Nyaga</h1>
-<h3 align="center">A passionate developer from Kenya</h3>
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexander784&label=Profile%20views&color=0e75b6&style=flat" alt="alexander784" /> </p>
-
-- 🌱 I’m currently learning **Django,**
-
-- 👨‍💻 All of my projects are available at [https://github.com/alexander784](https://github.com/alexander784)
+<h1 align="center">Hello World 👋</h1>
+<p>Am a passionate Software developer with a passion for building innovative web applications and solutions</p>
 
 - 💬 Ask me about **React,Git,Flask**
 
