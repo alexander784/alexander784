@@ -1,7 +1,7 @@
-<h1 align="center">Hello World 👋</h1>
-<p>Am a passionate Software developer with a passion for building innovative web applications and solutions</p>
+<h1 align="center">Hello World am Alexander Nyaga👋</h1>
+<p>Creative looking to constantly up my skills by building projects and endlessly learning about the fascinating software development world</p>
 
-- 💬 Ask me about **React,Git,Flask**
+
 
 - 📫 How to reach me **ga.nyaga7@gmail.com**
 
