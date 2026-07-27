@@ -1,46 +1,80 @@
-html
+
 <h1 align="center">
   Hi there, I'm Alexander Nyaga 👋
 </h1>
 
 <h3 align="center">
-Building reliable data systems, analytics solutions, and scalable data infrastructure that transform raw data into actionable insights.
+Data Engineer • Backend Engineer • Building scalable data platforms and resilient backend architectures
 </h3>
 
 <p align="center">
-I'm a <strong>Data Engineer & Analytics Engineer</strong> passionate about designing robust data pipelines, modeling high-quality datasets, and building cloud-native data platforms. I enjoy solving complex data challenges, optimizing workflows, and creating systems that are scalable, reliable, and easy to maintain.
+I design and build modern data platforms and backend systems that are scalable, reliable, and production-ready. From developing high-performance APIs and backend architectures to engineering robust data pipelines and analytics platforms, I enjoy creating solutions that turn complex problems into simple, maintainable systems.
 </p>
 
 ---
 
-### 🚀 What I Do
+## 🚀 What I Do
 
-- 🔹 Design and build scalable ETL/ELT data pipelines
-- 🔹 Develop modern data warehouses and lakehouse architectures
-- 🔹 Build analytics solutions and interactive dashboards
-- 🔹 Optimize SQL queries and data processing workflows
-- 🔹 Implement data quality, governance, and automation
-- 🔹 Work with cloud platforms and modern data engineering tools
+### 📊 Data Engineering
+- Design and build scalable ETL/ELT pipelines
+- Develop modern data warehouses and lakehouse architectures
+- Build analytics-ready datasets and reporting pipelines
+- Optimize SQL, data models, and processing performance
+- Implement data quality, governance, and workflow automation
 
----
-
-### 💡 What You'll Find Here
-
-This GitHub showcases projects focused on:
-
-- Data Engineering
-- Data Analytics
-- Cloud Data Platforms
-- Machine Learning Pipelines
-- Workflow Automation
-- Open Source Contributions
-- SQL & Python Projects
+### ⚙️ Backend Engineering
+- Design scalable backend architectures
+- Develop RESTful APIs and microservices
+- Build secure authentication and authorization systems
+- Design efficient databases and system integrations
+- Optimize application performance, scalability, and reliability
 
 ---
 
-### 🤝 Let's Connect
+## 💻 Core Technologies
 
-📫 **Email:** alexanders7sg@gmail.com
+**Languages**
+- Python
+- SQL
+- JavaScript / TypeScript
 
-I'm always open to collaborating on exciting data projects, discussing new ideas, or exploring opportunities in data engineering, analytics, and cloud technologies.
+**Backend**
+- FastAPI
+- Django
+- Node.js
+- Express
+- REST APIs
+
+**Data**
+- Apache Airflow
+- dbt
+- Apache Spark
+- Pandas
+- PostgreSQL
+- MySQL
+
+**Cloud & DevOps**
+- Docker
+- Kubernetes
+- Git & GitHub
+- CI/CD
+- AWS | Azure | GCP
+
+---
+
+## 🌱 Currently Exploring
+
+- Distributed Data Systems
+- Event-Driven Architectures
+- Real-Time Data Processing
+- AI & Data Engineering
+- Cloud-Native Backend Systems
+
+---
+
+## 🤝 Let's Connect
+
+📫 **Email:** **alexanders7sg@gmail.com**
+
+I'm always interested in collaborating on challenging data engineering, backend engineering, and cloud infrastructure projects. Whether you're building a modern data platform, scalable APIs, or production-grade backend systems, I'd love to connect.
 ```
