@@ -8,7 +8,8 @@ Data Engineer • Backend Engineer • Building scalable data platforms and resi
 </h3>
 
 <p align="center">
-I design and build modern data platforms and backend systems that are scalable, reliable, and production-ready. From developing high-performance APIs and backend architectures to engineering robust data pipelines and analytics platforms, I enjoy creating solutions that turn complex problems into simple, maintainable systems.
+I help businesses turn messy data and fragile backends into fast, reliable systems they can trust, so their teams ship faster and decide with confidence.
+Backend Engineer • Data Engineer | Django · Python · FastApi PostgreSQL · AWS
 </p>
 
 ---
